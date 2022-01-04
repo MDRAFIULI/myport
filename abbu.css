@@ -1,0 +1,14 @@
+body{font-family: 'Poppins', sans-serif;}
+h1{font-size: 50px;}
+.color{color: orangered;}
+section{display: flex;}
+.half-width{width: 50%;
+padding: 5%;}
+.half-width img{width: 100%;}
+.order-us{text-decoration: none; 
+background-image: linear-gradient(orangered, black);
+border-radius: 5px;
+padding: 10px;
+font-weight: 700px;
+color: white;
+}
