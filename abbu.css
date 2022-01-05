@@ -18,4 +18,17 @@ color: white;
 background-repeat: no-repeat;}
 .h1color{color: orangered;}
 .padding{padding: 2px;}
-.experience{box-shadow: gray;}
+.experience{box-shadow: 10px 10px 40px gray;
+margin-left: 5%;
+margin-right: 5%;
+padding-left: 10px;
+border-radius: 10px;}
+.experience2{background-image: url(images/exp-bg.png);
+background-repeat: no-repeat;
+background-position: left;}
+#slicea{border-left: 7px solid;
+border-image: linear-gradient(blue, cyan);
+border-image-slice: 1;}
+#sliceb{border-left: 7px solid;
+    border-image: linear-gradient(orangered, tomato);
+    border-image-slice: 1;}
